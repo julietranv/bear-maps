@@ -1,0 +1,2 @@
+Explanation:
+I was stuck on the routing part of the project for a while, and spent an entire day debugging this. I was also simultaneously struggling to finish my homework and project checkpoint for another class (Data 8), which left me with very little time. Therefore, although I was able to finish Project 3 on time, I didn't have a chance to learn about Tries and complete the Gold Points by Wednesday night.  
